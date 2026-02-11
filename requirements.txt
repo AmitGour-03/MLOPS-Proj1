@@ -1,0 +1,21 @@
+ipykernel   ## for running Jupyter notebooks
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo
+from_root
+dill
+certifi
+PyYAML
+boto3    ## its responsible to work with AWS S3 buckets
+mypy-boto3-s3
+botocore
+fastapi
+python-multipart
+uvicorn
+jinja2
+imblearn
+-e .   ## its purpose is to install all the local packages in our venv
